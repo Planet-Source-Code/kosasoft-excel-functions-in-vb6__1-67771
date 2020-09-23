@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=DLL\ExcelFunc.vbp
+StartupProject=Template\prjExcelTemplate.vbp
